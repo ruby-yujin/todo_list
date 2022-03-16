@@ -64,5 +64,9 @@ export const GlobalStyle = createGlobalStyle`
       vertical-align: top;
     }
 
+    input {
+      outline: none;
+    }
+
 
 `;
